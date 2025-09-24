@@ -17,8 +17,8 @@ Follow these steps to set up the environment and run the notebooks:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/mnist-tutorials.git
-cd mnist-tutorials
+git clone https://github.com/UCM-YuCCA-Lab/mnist-hello-world.git
+cd mnist-hello-world
 ```
 
 ### 2. Install Miniconda
@@ -37,6 +37,7 @@ To launch Jupyter Notebook, run:
 ```bash
 jupyter notebook
 ```
+Click each `.ipynb` notebook to run the tutorial.
 
 ## 📂 Repository Structure
 ```
